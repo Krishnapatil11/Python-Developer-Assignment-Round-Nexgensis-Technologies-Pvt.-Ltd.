@@ -1,0 +1,2 @@
+package,warehouse,destination,dist_to_warehouse,dist_to_dest,leg_total,delay_minutes,status
+P3,W3,"[105, 20]",7.0711,7.0711,14.1422,0,DELIVERED
